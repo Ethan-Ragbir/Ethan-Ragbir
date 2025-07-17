@@ -114,7 +114,7 @@ I am a physics and math student at the College of New Jersey who has an interest
   <a href="mailto:ethan.ragbir@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ethan-ragbir.dev" target="_blank">
+  <a href="(https://ethan-ragbir.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
