@@ -13,13 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. I enjoy tackling complex problems and turning ideas into reality through code.
-
-- 🔭 I'm currently working on **exciting projects** that challenge my skills
-- 🌱 I'm currently learning **cutting-edge technologies** and best practices
-- 👯 I'm looking to collaborate on **open source projects** and innovative ideas
-- 💬 Ask me about **anything tech-related** - I love discussing new ideas!
-- ⚡ Fun fact: **I believe every problem has an elegant solution waiting to be discovered**
+I am a physics and math student at the College of New Jersey who has an interest in machine learning and its applications. I hope to be a particle/ computational physicist. Currently I am taking classes like statistical mechanics and computational physics.  
 
 ---
 
