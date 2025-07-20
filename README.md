@@ -85,7 +85,7 @@ I am a physics and math student at the College of New Jersey who has an interest
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Ethan-Ragbir/project-1">
+  <a href="https://github.com/Ethan-Ragbir/project-1](https://ethan-ragbir.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan-Ragbir&repo=project-1&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/Ethan-Ragbir/project-2">
